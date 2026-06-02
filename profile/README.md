@@ -1,11 +1,16 @@
-# Hof van Saksen GitHub
+  # Hof van Saksen
 
-Centrale plek voor de software van Hof van Saksen.
+  The home for all software built for Hof van Saksen.
 
-Binnen deze GitHub-organisatie verzamelen we repositories die bijdragen aan de digitale en operationele ondersteuning van onze omgeving. Denk aan applicaties, dashboards, integraties, automatiseringen en andere tools die helpen om processen inzichtelijker, slimmer en betrouwbaarder te maken.
+  This is where our code lives: the apps, dashboards, integrations, and
+  automations that keep our resort running and make day-to-day work a little
+  smarter. Some of it powers operations behind the scenes, some of it is
+  technical monitoring, and some of it is just us scratching an itch and
+  building a tool that makes life easier.
 
-Onze projecten zijn praktisch van aard: ze ondersteunen dagelijkse werkzaamheden, technische monitoring en de verdere ontwikkeling van interne oplossingen. Daarbij ligt de nadruk op samenwerking, continu verbeteren en het bouwen van software die echt waarde toevoegt in de praktijk.
+  We like to keep things practical. If it adds real value on the ground,
+  it has a place here. Projects grow as our teams and systems do. New ideas,
+  improvements, and experiments all land in this org so knowledge stays in
+  one place.
 
-Deze organisatie groeit mee met de behoeften van onze teams en systemen. Nieuwe ideeën, verbeteringen en uitbreidingen krijgen hier een plek, zodat kennis en ontwikkeling centraal beschikbaar blijven.
-
-![Views](https://komarev.com/ghpvc/?username=Hof-van-Saksen&color=red)
+  ![Views](https://komarev.com/ghpvc/?username=Hof-van-Saksen&color=red)
